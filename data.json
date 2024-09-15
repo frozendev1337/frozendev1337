@@ -1,0 +1,110 @@
+{
+  "products": [
+    {
+      "name": "ms_garage",
+      "price": "15",
+      "channelid": "1150577904552521789"
+    },
+    {
+      "name": "ms_namechange",
+      "price": "10",
+      "channelid": "1150577905848561704"
+    },
+    {
+      "name": "ms_clotingstore",
+      "price": "35",
+      "channelid": "1150577907090063380"
+    },
+    {
+      "name": "ms_einreise",
+      "price": "15",
+      "channelid": "1150577908704870501"
+    },
+    {
+      "name": "ms_hud",
+      "price": "35",
+      "channelid": "1150577909841535027"
+    },
+    {
+      "name": "ms_notify",
+      "price": "5",
+      "channelid": "1150577911162736651"
+    },
+    {
+      "name": "ms_banking",
+      "price": "15",
+      "channelid": "1150577912282628096"
+    },
+    {
+      "name": "ms_identity",
+      "price": "15",
+      "channelid": "1152647271557640242"
+    }
+  ],
+  "blacklistedWords": [
+    "Nigga",
+    "Nega",
+    "Nigger",
+    "Adolf",
+    "Nogga",
+    "Hitler",
+    "Nogger",
+    "Hurensohn",
+    "Hure",
+    "Schlampe",
+    "Penis",
+    "discord.gg",
+    ".gg/",
+    "@everyone",
+    "@here",
+    "scamm"
+  ],
+  "muted": [],
+  "obfFiles": [
+    {
+      "file": "ZqBuduOdr8U5Ard.js",
+      "type": "js",
+      "author": {
+        "name": "zzfxnn",
+        "tag": "zzfxnn",
+        "id": "778647522356363285"
+      }
+    },
+    {
+      "file": "fuaqMRARIw1dD9Q.js",
+      "type": "js",
+      "author": {
+        "name": "zzfxnn",
+        "tag": "zzfxnn",
+        "id": "778647522356363285"
+      }
+    },
+    {
+      "file": "VpnoSNi7EVhcfbB.js",
+      "type": "js",
+      "author": {
+        "name": "shotsonmyex",
+        "tag": "shotsonmyex",
+        "id": "949428239774937168"
+      }
+    },
+    {
+      "file": "l4ldpApN0IbRZ1E.js",
+      "type": "js",
+      "author": {
+        "name": "shotsonmyex",
+        "tag": "shotsonmyex",
+        "id": "949428239774937168"
+      }
+    },
+    {
+      "file": "NrS89cPQiIaQQf3.js",
+      "type": "js",
+      "author": {
+        "name": "shotsonmyex",
+        "tag": "shotsonmyex",
+        "id": "949428239774937168"
+      }
+    }
+  ]
+}
